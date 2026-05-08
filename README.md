@@ -1,4 +1,4 @@
-# rockchip-vaapi
+# rockchip-vaapi (it's fork saving the original repo in case it' deleted)
 
 VA-API driver for Rockchip RK3588 / RK3576 that bridges **libva** to
 **librockchip-mpp** (MPP), enabling hardware-accelerated video decode in
